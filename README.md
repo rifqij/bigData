@@ -10,12 +10,10 @@ contribute to analyze large datasets using Jupyter, colaboratory, and Spark as a
 
 This repo is all about Programming Spark using Pyspark, please enjoy!
 
-find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
+find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
-[1.2]: https://i.imgur.com/MnHetqG.jpg (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
-[1]: https://www.instagram.com/rifqiiiiiiiiiiiiiiiii/
-[2]: https://www.linkedin.com/in/rifqijundullah/
+[1]: https://www.linkedin.com/in/rifqijundullah/
