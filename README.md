@@ -7,7 +7,7 @@ the need to process big data due to a limited processing power and memory resour
 While we can try to upgrade our computer to meet the need of big data processing but we will soon find the 
 computer can easily reach its maximum capacity again when dealing with the ever increasing datasets.
 
-This repo is all about Programming Spark using Pyspark. Contribute to analyze large datasets using Jupyter, colaboratory, and Spark as a platform with a simple python code! please enjoy!
+This repo is all about Programming Spark using Pyspark. Contribute to analyze large datasets using Jupyter, colaboratory, DataBricks (community edition) and Spark as a platform with a simple python code!
 
 ### Contents:
 - [Collabolatory](https://github.com/rifqij/bigData/tree/main/GoogleCollab)
