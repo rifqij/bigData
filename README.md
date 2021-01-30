@@ -9,3 +9,13 @@ computer can easily reach its maximum capacity again when dealing with the ever 
 contribute to analyze large datasets using Jupyter, colaboratory, and Spark as a platform with a simple python code!
 
 This repo is all about Programming Spark using Pyspark, please enjoy!
+
+find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+[1.2]: https://i.imgur.com/MnHetqG.jpg (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[1]: https://www.instagram.com/rifqiiiiiiiiiiiiiiiii/
+[2]: https://www.linkedin.com/in/rifqijundullah/
