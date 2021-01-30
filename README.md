@@ -9,14 +9,14 @@ computer can easily reach its maximum capacity again when dealing with the ever 
 
 This repo is all about Programming Spark using Pyspark. Contribute to analyze large datasets using Jupyter, colaboratory, and Spark as a platform with a simple python code! please enjoy!
 
- <i>Loved the project? feel free to connect with me on [![LinkedIn][1.2]][1] to help it improve!</i>
+### Contents:
+- [Collabolatory](https://github.com/rifqij/bigData/tree/main/GoogleCollab)
+- [DataBricks](https://github.com/rifqij/bigData/tree/main/DataBricks)
+
+<i>Loved the project? feel free to connect with me on [![LinkedIn][1.2]][1] to help it improve!</i>
 
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/rifqijundullah/
-
-### Contents:
-- [Collabolatory](https://github.com/rifqij/bigData/tree/main/GoogleCollab)
-- [DataBricks](https://github.com/rifqij/bigData/tree/main/DataBricks)
