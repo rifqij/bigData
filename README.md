@@ -1,4 +1,6 @@
 <h1 align="center">Hello, bigData enthusiast! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
+</div>
 
 In data science, data is called "big" if it cannot fit into the memory of a single standard laptop or workstation.
 Apache Spark is an indispensable data processing framework that everyone should know when dealing with big data.
